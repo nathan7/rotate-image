@@ -1,6 +1,6 @@
 {
   "name": "rotate-image",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "rotate images in 90° increments",
   "main": "index.js",
   "repository": {
