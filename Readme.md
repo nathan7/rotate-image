@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ npm install nathan7/rotate-image
+    $ npm install nathan7/rotate-image nathan7/canvas
 
   or
 

@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/nathan7/rotate-image/issues"
   },
-  "readmeFilename": "Readme.md",
-  "dependencies": {
-    "canvas": "nathan7/canvas"
-  }
+  "readmeFilename": "Readme.md"
 }
