@@ -1,0 +1,24 @@
+{
+  "name": "rotate-image",
+  "version": "1.0.0",
+  "description": "rotate images in 90° increments",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/rotate-image.git"
+  },
+  "keywords": [
+    "rotate",
+    "image",
+    "utility"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathan7/rotate-image/issues"
+  },
+  "readmeFilename": "Readme.md",
+  "dependencies": {
+    "canvas": "nathan7/canvas"
+  }
+}
