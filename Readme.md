@@ -19,4 +19,4 @@
 
 ## License
 
-  [MIT](http://nathan7.mit-license.org/)
+  [MIT](LICENSE)
